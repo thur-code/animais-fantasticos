@@ -1,13 +1,4 @@
-# 🐾 Animais Fantásticos – Projeto Final do Curso Origamid
-
-Este é o projeto desenvolvido como parte do curso **[JavaScript Completo ES6](https://www.origamid.com/curso/javascript-completo-es6/)** da Origamid.
-O objetivo do “Animais Fantásticos” é implementar uma aplicação interativa em JavaScript puro, utilizando os conceitos modernos (ES6+), manipulação de DOM, consumo de API externa, classes, módulos, Git, ESLint, entre outros.
-
----
-
-## 🚀 Preview  
-🔗 [Acesse o projeto online aqui](https://thur-code.github.io/animais-fantasticos-origamid/)  
-![Preview do site](./img.png)  
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/animais-fantasticos/)
 
 ---
 
@@ -36,6 +27,6 @@ Durante a construção deste projeto, meu foco foi:
 ## ✅ Status do projeto  
 ✅ Concluído
 
-## 📝 Observações 
-- Projeto feito de forma guiada durante as aulas do curso Origamid. 
-- O design e o código foram mantidos próximos ao exemplo do professor, com o objetivo de consolidar os fundamentos do JavaScript.
+---
+
+![Preview do site](./img.png)
