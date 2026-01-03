@@ -24,7 +24,7 @@ Durante a construção deste projeto, meu foco foi:
 
 ---
 
-## ✅ Status do projeto  
+## 📂 Status do projeto  
 ✅ Concluído
 
 ---
